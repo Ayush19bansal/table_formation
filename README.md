@@ -1,3 +1,4 @@
+# Hosted link https://ayush19bansal.github.io/table_formation/
 # table_formation
 ![image](https://github.com/Ayush19bansal/table_formation/assets/118842033/215586ce-df6e-4e42-b4d3-2ba9736fd467)
 in body tag we form a table using table tag we put some attributes as well fram="border" cellpadding for spaces border only bold borde =2
